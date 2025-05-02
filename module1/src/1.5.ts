@@ -13,6 +13,7 @@ const user: {
     isMarried: true,
 };
 
-user.company = 'PH'
+// user.company = 'PH'
+// user.company = 'PH'
 
 // 1-6 Function in typescript
