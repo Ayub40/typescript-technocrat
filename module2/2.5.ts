@@ -47,7 +47,7 @@
 
     const student1 = addCourseToStudent({ name: 'Mr X', email: 'x@gmail.com', devType: 'NLWD' })
 
-    const student2 = addCourseToStudent({ name: 'Mr Y', email: 'y@gmail.com', devType: 'Apple Watch' })
+    const student2 = addCourseToStudent({ name: 'Mr Y', email: 'y@gmail.com', hasWatch: 'Apple Watch' })
 
 
     //
